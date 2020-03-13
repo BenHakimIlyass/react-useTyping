@@ -1,5 +1,6 @@
 # react-useTyping
 Created with CodeSandbox
+Demo : https://codesandbox.io/s/funny-bouman-bejjb
 # Api
  
  ```javascript

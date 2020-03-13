@@ -1,6 +1,6 @@
 # react-useTyping
 Created with CodeSandbox
- Api
+# Api
  
  ```javascript
 import React from "react";
